@@ -1,0 +1,11 @@
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\bin\Release\net9.0\EmployeeManagement.Persistence.deps.json
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\bin\Release\net9.0\EmployeeManagement.Persistence.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\bin\Release\net9.0\EmployeeManagement.Persistence.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.AssemblyInfo.cs
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\refint\EmployeeManagement.Persistence.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\EmployeeManagement.Persistence.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Persistence\obj\Release\net9.0\ref\EmployeeManagement.Persistence.dll

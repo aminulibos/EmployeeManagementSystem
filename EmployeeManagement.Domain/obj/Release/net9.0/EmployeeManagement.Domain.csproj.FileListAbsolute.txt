@@ -1,0 +1,11 @@
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Release\net9.0\EmployeeManagement.Domain.deps.json
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Release\net9.0\EmployeeManagement.Domain.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Release\net9.0\EmployeeManagement.Domain.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\refint\EmployeeManagement.Domain.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\EmployeeManagement.Domain.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Release\net9.0\ref\EmployeeManagement.Domain.dll

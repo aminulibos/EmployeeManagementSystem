@@ -1,0 +1,11 @@
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.deps.json
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\bin\Debug\net9.0\EmployeeManagement.Infrastructure.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\refint\EmployeeManagement.Infrastructure.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Infrastructure\obj\Debug\net9.0\ref\EmployeeManagement.Infrastructure.dll

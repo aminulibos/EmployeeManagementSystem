@@ -1,0 +1,11 @@
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Release\net9.0\EmployeeManagement.Configuration.deps.json
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Release\net9.0\EmployeeManagement.Configuration.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Release\net9.0\EmployeeManagement.Configuration.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.AssemblyInfoInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.AssemblyInfo.cs
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\refint\EmployeeManagement.Configuration.dll
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\EmployeeManagement.Configuration.pdb
+C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Release\net9.0\ref\EmployeeManagement.Configuration.dll
