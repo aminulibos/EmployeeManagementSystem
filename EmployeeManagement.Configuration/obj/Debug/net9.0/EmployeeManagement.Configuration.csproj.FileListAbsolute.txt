@@ -9,3 +9,15 @@ C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configur
 C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\refint\EmployeeManagement.Configuration.dll
 C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.pdb
 C:\Users\ibos\RiderProjects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\ref\EmployeeManagement.Configuration.dll
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.deps.json
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.dll
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.pdb
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.AssemblyInfoInputs.cache
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.AssemblyInfo.cs
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.sourcelink.json
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.dll
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\refint\EmployeeManagement.Configuration.dll
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.pdb
+C:\Users\Soton\Desktop\Projects\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\ref\EmployeeManagement.Configuration.dll

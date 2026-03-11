@@ -8,24 +8,26 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ibos\\.nuget\\packages\\": {}
+    "C:\\Users\\Soton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibos\\RiderProjects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
       "projectName": "EmployeeManagement.Infrastructure",
-      "projectPath": "C:\\Users\\ibos\\RiderProjects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibos\\RiderProjects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Soton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Soton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

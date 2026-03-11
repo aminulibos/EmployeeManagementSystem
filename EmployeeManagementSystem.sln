@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Configur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.WebAPI", "EmployeeManagement.WebAPI\EmployeeManagement.WebAPI.csproj", "{9C23E3FA-82DD-4FE1-8812-DDF0F6F4B73B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Application", "EmployeeManagement.Application\EmployeeManagement.Application.csproj", "{B56B0B7F-01B1-4E91-BFE3-141263760562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9C23E3FA-82DD-4FE1-8812-DDF0F6F4B73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C23E3FA-82DD-4FE1-8812-DDF0F6F4B73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C23E3FA-82DD-4FE1-8812-DDF0F6F4B73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56B0B7F-01B1-4E91-BFE3-141263760562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56B0B7F-01B1-4E91-BFE3-141263760562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56B0B7F-01B1-4E91-BFE3-141263760562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56B0B7F-01B1-4E91-BFE3-141263760562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T56k3q7KI4I=",
+  "dgSpecHash": "e9zFAjpVQEo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibos\\RiderProjects\\EmployeeManagementSystem\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ibos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
-    "C:\\Users\\ibos\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Soton\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\Soton\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }
