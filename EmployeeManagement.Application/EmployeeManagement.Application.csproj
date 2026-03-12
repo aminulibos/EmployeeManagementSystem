@@ -6,5 +6,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\EmployeeManagement.Domain\EmployeeManagement.Domain.csproj"/>
+        <ProjectReference Include="..\EmployeeManagement.Shared\EmployeeManagement.Shared.csproj"/>
+        <ProjectReference Include="..\EmployeeManagement.Persistence\EmployeeManagement.Persistence.csproj"/>
+    </ItemGroup>
 
 </Project>

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {}
+    "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+    "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+        "projectUniqueName": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
         "projectName": "EmployeeManagement.Domain",
-        "projectPath": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Soton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soton\\Desktop\\Projects\\EmployeeManagementSystem\\EmployeeManagement.Domain\\obj\\",
+        "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
+        "outputPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Soton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
