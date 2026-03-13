@@ -1,0 +1,12 @@
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.deps.json
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.AssemblyInfo.cs
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.sourcelink.json
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\refint\EmployeeManagement.Domain.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.pdb
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Domain\obj\Debug\net9.0\ref\EmployeeManagement.Domain.dll

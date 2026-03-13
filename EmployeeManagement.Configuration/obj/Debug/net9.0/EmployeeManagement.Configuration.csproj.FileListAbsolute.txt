@@ -1,0 +1,12 @@
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.deps.json
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\bin\Debug\net9.0\EmployeeManagement.Configuration.pdb
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.AssemblyInfoInputs.cache
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.AssemblyInfo.cs
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.csproj.CoreCompileInputs.cache
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.sourcelink.json
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\refint\EmployeeManagement.Configuration.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\EmployeeManagement.Configuration.pdb
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Configuration\obj\Debug\net9.0\ref\EmployeeManagement.Configuration.dll
