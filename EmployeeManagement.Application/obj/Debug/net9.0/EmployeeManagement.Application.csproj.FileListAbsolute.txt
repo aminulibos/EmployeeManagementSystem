@@ -2,11 +2,13 @@ D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debu
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Application.dll
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Application.pdb
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Infrastructure.dll
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Persistence.dll
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Shared.dll
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Shared.pdb
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Persistence.pdb
+D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Infrastructure.pdb
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\iBos-Project\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.AssemblyInfoInputs.cache

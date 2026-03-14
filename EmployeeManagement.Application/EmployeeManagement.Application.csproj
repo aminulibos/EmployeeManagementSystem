@@ -8,14 +8,16 @@
 
     <ItemGroup>
         <PackageReference Include="BCrypt.Net-Next" Version="4.0.3"/>
-<!--        <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.3.2" />-->
-<!--        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.3.2" />-->
+        <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.4.0"/>
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.4.0"/>
+        <PackageReference Include="FluentValidation" Version="11.3.1"/>
     </ItemGroup>
 
     <ItemGroup>
         <ProjectReference Include="..\EmployeeManagement.Domain\EmployeeManagement.Domain.csproj"/>
         <ProjectReference Include="..\EmployeeManagement.Shared\EmployeeManagement.Shared.csproj"/>
         <ProjectReference Include="..\EmployeeManagement.Persistence\EmployeeManagement.Persistence.csproj"/>
+        <ProjectReference Include="..\EmployeeManagement.Infrastructure\EmployeeManagement.Infrastructure.csproj"/>
     </ItemGroup>
 
 </Project>

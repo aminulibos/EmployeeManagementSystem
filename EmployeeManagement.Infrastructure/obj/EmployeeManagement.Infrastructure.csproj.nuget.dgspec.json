@@ -4,6 +4,65 @@
     "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {}
   },
   "projects": {
+    "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+        "projectName": "EmployeeManagement.Domain",
+        "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
+        "outputPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +71,207 @@
         "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
         "outputPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+                "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
+              },
+              "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
+                "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
+              },
+              "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj": {
+                "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+        "projectName": "EmployeeManagement.Persistence",
+        "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
+        "outputPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+                "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
+              },
+              "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj": {
+                "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
+        "projectName": "EmployeeManagement.Shared",
+        "projectPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
+        "packagesPath": "C:\\Users\\ibos\\.nuget\\packages\\",
+        "outputPath": "D:\\iBos-Project\\EmployeeManagementSystem\\EmployeeManagement.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibos\\AppData\\Roaming\\NuGet\\NuGet.Config"

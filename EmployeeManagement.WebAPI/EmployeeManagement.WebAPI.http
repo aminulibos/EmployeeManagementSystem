@@ -1,6 +1,215 @@
-@EmployeeManagement.WebAPI_HostAddress = http://localhost:5059
+@baseUrl = http://localhost:5059
+@jwt = YOUR_JWT_TOKEN_HERE
 
-GET {{EmployeeManagement.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
+### =====================================================
+### AUTHENTICATION ENDPOINTS
+### =====================================================
 
-###
+### 1. Login - Get JWT Token
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "password123"
+}
+
+### 2. Logout
+POST {{baseUrl}}/api/auth/logout?username=admin
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### DEPARTMENT ENDPOINTS
+### =====================================================
+
+### 3. Create Department
+POST {{baseUrl}}/api/department
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "name": "Engineering",
+  "description": "Software Development Department"
+}
+
+### 4. Get All Departments
+GET {{baseUrl}}/api/department
+Authorization: Bearer {{jwt}}
+
+### 5. Get Department by ID
+GET {{baseUrl}}/api/department/1
+Authorization: Bearer {{jwt}}
+
+### 6. Update Department
+PUT {{baseUrl}}/api/department/1
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "name": "Engineering Updated",
+  "description": "Updated description"
+}
+
+### 7. Delete Department
+DELETE {{baseUrl}}/api/department/1
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### DESIGNATION ENDPOINTS
+### =====================================================
+
+### 8. Create Designation
+POST {{baseUrl}}/api/designation
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "title": "Senior Developer",
+  "description": "Senior level developer role"
+}
+
+### 9. Get All Designations
+GET {{baseUrl}}/api/designation
+Authorization: Bearer {{jwt}}
+
+### 10. Get Designation by ID
+GET {{baseUrl}}/api/designation/1
+Authorization: Bearer {{jwt}}
+
+### 11. Update Designation
+PUT {{baseUrl}}/api/designation/1
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "title": "Lead Developer",
+  "description": "Lead level developer role"
+}
+
+### 12. Delete Designation
+DELETE {{baseUrl}}/api/designation/1
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### EMPLOYEE ENDPOINTS
+### =====================================================
+
+### 13. Create Employee
+POST {{baseUrl}}/api/employee
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "john@company.com",
+  "phone": "9876543210",
+  "departmentId": 1,
+  "designationId": 1
+}
+
+### 14. Get All Employees
+GET {{baseUrl}}/api/employee
+Authorization: Bearer {{jwt}}
+
+### 15. Get Employee by ID
+GET {{baseUrl}}/api/employee/1
+Authorization: Bearer {{jwt}}
+
+### 16. Update Employee
+PUT {{baseUrl}}/api/employee/1
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "name": "John Doe Updated",
+  "email": "john.updated@company.com",
+  "phone": "8765432109",
+  "departmentId": 1,
+  "designationId": 2
+}
+
+### 17. Deactivate Employee
+POST {{baseUrl}}/api/employee/1/deactivate
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### SALARY ENDPOINTS
+### =====================================================
+
+### 18. Disburse Salary
+POST {{baseUrl}}/api/salary/disburse
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "employeeId": 1,
+  "amount": 50000,
+  "month": 3,
+  "year": 2026
+}
+
+### 19. Get Salary History
+GET {{baseUrl}}/api/salary/history/1
+Authorization: Bearer {{jwt}}
+
+### 20. Get Department Salary
+GET {{baseUrl}}/api/salary/department/1
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### REPORTING ENDPOINTS
+### =====================================================
+
+### 21. Total Salary Disbursed
+GET {{baseUrl}}/api/reporting/total-disbursed
+Authorization: Bearer {{jwt}}
+
+### 22. Salary Distribution by Department
+GET {{baseUrl}}/api/reporting/department-distribution
+Authorization: Bearer {{jwt}}
+
+### 23. Monthly Salary Summary
+GET {{baseUrl}}/api/reporting/monthly-summary
+Authorization: Bearer {{jwt}}
+
+### 24. Employee Salary History Report
+GET {{baseUrl}}/api/reporting/employee-history/1
+Authorization: Bearer {{jwt}}
+
+### =====================================================
+### ERROR HANDLING TESTS
+### =====================================================
+
+### 25. Test 404 - Non-existent Resource
+GET {{baseUrl}}/api/employee/99999
+Authorization: Bearer {{jwt}}
+
+### 26. Test Validation - Missing Required Field
+POST {{baseUrl}}/api/employee
+Authorization: Bearer {{jwt}}
+Content-Type: application/json
+
+{
+  "name": "Test User"
+}
+
+### 27. Test Unauthorized - No Token
+GET {{baseUrl}}/api/employee
+
+### 28. Test Invalid Credentials
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "invalid",
+  "password": "wrong"
+}
+
+### =====================================================
+### NOTES
+### =====================================================
+
+# Replace {{jwt}} token with actual token from login response
+# Update departmentId, designationId, employeeId as needed
+# All POST/PUT requests require Authorization header
+# Only login endpoint is public (no auth required)

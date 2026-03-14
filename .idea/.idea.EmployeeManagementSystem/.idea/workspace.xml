@@ -28,33 +28,144 @@
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/Debug/net9.0/EmployeeManagement.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/Debug/net9.0/EmployeeManagement.Application.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/Debug/net9.0/EmployeeManagement.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/Debug/net9.0/EmployeeManagement.Application.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/EmployeeManagement.Configuration.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/EmployeeManagement.Configuration.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/bin/Release/net9.0/EmployeeManagement.Configuration.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Debug/net9.0/EmployeeManagement.Configuration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Debug/net9.0/EmployeeManagement.Configuration.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Debug/net9.0/EmployeeManagement.Configuration.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Debug/net9.0/EmployeeManagement.Configuration.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Debug/net9.0/EmployeeManagement.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Debug/net9.0/EmployeeManagement.Domain.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Debug/net9.0/EmployeeManagement.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Debug/net9.0/EmployeeManagement.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/EmployeeManagement.Configuration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/ref/EmployeeManagement.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/ref/EmployeeManagement.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/refint/EmployeeManagement.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/Release/net9.0/refint/EmployeeManagement.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/bin/Release/net9.0/EmployeeManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/bin/Release/net9.0/EmployeeManagement.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/bin/Release/net9.0/EmployeeManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/bin/Release/net9.0/EmployeeManagement.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/EmployeeManagement.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/EmployeeManagement.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/EmployeeManagement.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/ref/EmployeeManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/ref/EmployeeManagement.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/refint/EmployeeManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/Release/net9.0/refint/EmployeeManagement.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/EmployeeManagement.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/EmployeeManagement.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/bin/Release/net9.0/EmployeeManagement.Infrastructure.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Debug/net9.0/EmployeeManagement.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Debug/net9.0/EmployeeManagement.Infrastructure.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Debug/net9.0/EmployeeManagement.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Debug/net9.0/EmployeeManagement.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/EmployeeManagement.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/ref/EmployeeManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/ref/EmployeeManagement.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/refint/EmployeeManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/Release/net9.0/refint/EmployeeManagement.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/EmployeeManagement.Persistence.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/EmployeeManagement.Persistence.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/bin/Release/net9.0/EmployeeManagement.Persistence.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Debug/net9.0/EmployeeManagement.Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Debug/net9.0/EmployeeManagement.Persistence.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Debug/net9.0/EmployeeManagement.Persistence.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Debug/net9.0/EmployeeManagement.Persistence.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Debug/net9.0/EmployeeManagement.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Debug/net9.0/EmployeeManagement.Shared.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Debug/net9.0/EmployeeManagement.Shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Debug/net9.0/EmployeeManagement.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/EmployeeManagement.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/ref/EmployeeManagement.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/ref/EmployeeManagement.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/refint/EmployeeManagement.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/Release/net9.0/refint/EmployeeManagement.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/bin/Release/net9.0/EmployeeManagement.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/bin/Release/net9.0/EmployeeManagement.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/bin/Release/net9.0/EmployeeManagement.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/bin/Release/net9.0/EmployeeManagement.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/EmployeeManagement.Shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/EmployeeManagement.Shared.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/EmployeeManagement.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/ref/EmployeeManagement.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/ref/EmployeeManagement.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/refint/EmployeeManagement.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/Release/net9.0/refint/EmployeeManagement.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/rider.project.restore.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/EmployeeManagement.WebAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/EmployeeManagement.WebAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/EmployeeManagement.WebAPI.http" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/EmployeeManagement.WebAPI.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/EmployeeManagement.WebAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Release/net9.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/EmployeeManagement.WebAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/EmployeeManagement.WebAPI.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/EmployeeManagement.WebAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/EmployeeManagement.WebAPI.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/EmployeeManagement.WebAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/ref/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/ref/EmployeeManagement.WebAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/refint/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/refint/EmployeeManagement.WebAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Release/net9.0/rpswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagementSystem.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagementSystem.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +192,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="61" />
+    <option name="cachedIndexableFilesCount" value="68" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,8 +210,35 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4b21fc3f8a3abb5d25f06c622276fbec0fd3932f169cc6af520bf5abc6a46b4/DbSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/533e65d7e1d3ab33a791a6bb1a1ecf0d06cc9b38761b9465fc6c2554a77ecb6/MvcServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/aa77d914d3d265ba37bfefeefc5d816e41f693f41643370d9a17bd3c14af/NpgsqlConnector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bbcfe7ab04c9c5e854e8084459eb29d1ba45cca1ecfec1ad876fafa1267/ConfigurationManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bd1d5c50194fea68ff3559c160230b0ab50f5acf4ce3061bffd6d62958e2182/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/DTOs/Employee/EmployeeResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Interfaces/IAuditService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Interfaces/IReportingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Services/EmployeeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Services/LoggingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Validators/DepartmentCreateRequestValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Application/Validators/EmployeeCreateRequestValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Configuration/CONFIGURATION_LAYER_GUIDE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Configuration/DatabaseInitialization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Configuration/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Authentication/ITokenService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Authentication/JwtTokenService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Caching/DistributedCacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Caching/ICacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Configuration/CachingConfigurationExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Data/Repositories/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Exceptions/InfrastructureExceptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/ExternalServices/Email/IEmailService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Logging/DatabaseAuditLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Logging/IAuditLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Infrastructure/Utilities/DateTimeProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Persistence/Migrations/AppDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.Persistence/Seeders/DbSeeder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmployeeManagement.WebAPI/Extensions/ApiResponseExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -118,30 +256,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.EmployeeManagement.Infrastructure: http.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.EmployeeManagement.Infrastructure: http.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "XThreadsFramesViewSplitterKey": "0.22597864",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlserver&quot;,
-      &quot;sqlserver.localdb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver",
+      "sqlserver.localdb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.EmployeeManagement.Infrastructure: http">
     <configuration name="EmployeeManagementSystem: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/EmployeeManagementSystem/EmployeeManagementSystem.csproj" />
@@ -413,8 +553,20 @@
       <workItem from="1773251046169" duration="4420000" />
       <workItem from="1773334510550" duration="10148000" />
       <workItem from="1773346927148" duration="9247000" />
-      <workItem from="1773386465215" duration="9624000" />
+      <workItem from="1773386465215" duration="22286000" />
+      <workItem from="1773468012001" duration="25892000" />
+      <workItem from="1773497945881" duration="18517000" />
+      <workItem from="1773517252468" duration="10355000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: implement JWT authentication and add BCrypt for password hashing">
+      <option name="closed" value="true" />
+      <created>1773396270400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773396270400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,6 +576,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat: implement JWT authentication and add BCrypt for password hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implement JWT authentication and add BCrypt for password hashing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

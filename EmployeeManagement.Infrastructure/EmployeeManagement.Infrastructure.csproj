@@ -6,5 +6,23 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.1" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.0" />
+        <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+        <PackageReference Include="StackExchange.Redis" Version="2.7.33" />
+        <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.1" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\EmployeeManagement.Domain\EmployeeManagement.Domain.csproj" />
+        <ProjectReference Include="..\EmployeeManagement.Persistence\EmployeeManagement.Persistence.csproj" />
+        <ProjectReference Include="..\EmployeeManagement.Shared\EmployeeManagement.Shared.csproj" />
+    </ItemGroup>
 
 </Project>
