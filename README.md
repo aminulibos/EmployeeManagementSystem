@@ -1,6 +1,6 @@
 ﻿# Employee Management System
 
-A modern backend service demonstrating clean architecture, JWT authentication, role-based access control, and comprehensive logging.
+A modern backend service demonstrating clean architecture, JWT authentication, role-based access control, and comprehensive logging. Built with .NET 9 and designed for scalability, security, and maintainability.
 
 ## Technology Stack
 
@@ -60,6 +60,7 @@ Edit `EmployeeManagement.WebAPI/appsettings.json`:
 - `Port`: Default 5432
 - `Database`: EmployeeLogDb
 - `Username/Password`: Your PostgreSQL credentials
+  > [SECURITY WARNING] Change the default PostgreSQL password from `postgres` before deploying
 
 ### Step 2: Run Migrations
 
@@ -80,9 +81,13 @@ cd EmployeeManagement.WebAPI
 dotnet run
 ```
 
-**Application starts at:** `http://localhost:5059`
+**Application starts at:** `http://localhost:5050`
 
-**Swagger UI:** `http://localhost:5059/swagger`
+**API Documentation:**
+- **Swagger UI:** `http://localhost:5050/swagger`
+- **Scalar UI:** `http://localhost:5050/scalar/v1` (Modern alternative)
+
+**Note:** To change port, edit `Properties/launchSettings.json` or use: `dotnet run --urls "http://localhost:YOUR_PORT"`
 
 ---
 
@@ -92,12 +97,12 @@ dotnet run
 
 1. **Get JWT Token:**
    ```http
-   POST http://localhost:5059/api/auth/login
+   POST http://localhost:5050/api/auth/login
    Content-Type: application/json
 
    {
      "username": "admin",
-     "password": "password123"
+     "password": "admin123"
    }
    ```
 
@@ -114,9 +119,9 @@ dotnet run
 
 **cURL Example:**
 ```bash
-curl -X POST http://localhost:5059/api/auth/login \
+curl -X POST http://localhost:5050/api/auth/login \
   -H "Content-Type: application/json" \
-  -d '{"username":"admin","password":"password123"}'
+  -d '{"username":"admin","password":"admin123"}'
 ```
 
 ### Key Endpoints
@@ -163,10 +168,10 @@ WebAPI             → Controllers, Middleware, Attributes
 
 ```
 Username: admin
-Password: password123
+Password: admin123
 ```
 
-*(Change in production)*
+> [WARNING] Change these credentials immediately in production environments.
 
 ---
 
@@ -192,25 +197,35 @@ All responses follow standard format:
 |-------|----------|
 | **Connection string error** | Verify MSSQL/PostgreSQL running & credentials correct |
 | **Migration failed** | Ensure databases exist, check connection strings |
-| **Port 5059 in use** | Change port in `Properties/launchSettings.json` |
+| **Port 5050 in use** | Change port in `Properties/launchSettings.json` |
 | **JWT expired** | Get new token from login endpoint |
 
 ---
 
 ## Features
 
-✅ JWT Authentication & Logout
-✅ Role-Based Access Control (Database-Driven)
-✅ Employee/Department/Designation CRUD
-✅ Salary Disbursement & History
-✅ 4 Report Types
-✅ Comprehensive Audit Logging (PostgreSQL)
-✅ Global Exception Handling
-✅ FluentValidation
+- JWT Authentication & Logout
+- Role-Based Access Control (Database-Driven)
+- Employee/Department/Designation CRUD
+- Salary Disbursement & History
+- 4 Report Types
+- Comprehensive Audit Logging (PostgreSQL)
+- Global Exception Handling
+- FluentValidation
 
 ---
 
-## Support
+## Support & Contact
 
-For questions or issues, contact the development team.
+For issues, questions, or feedback, please check the resources below before contacting:
+
+- Troubleshooting section above
+- API documentation at `/swagger` or `/scalar/v1`
+- Connection strings in `appsettings.json`
+- All prerequisites installed (MSSQL, PostgreSQL, .NET 9 SDK)
+
+### Author
+
+**Aminul Islam**  
+[a.soton7@gmail.com](mailto:a.soton7@gmail.com)
 

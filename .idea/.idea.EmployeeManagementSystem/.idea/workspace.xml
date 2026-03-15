@@ -24,17 +24,17 @@
   <component name="ChangeListManager">
     <list default="true" id="acda8701-b445-461a-a7c1-b01ab07e51b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EmployeeManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EmployeeManagementSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/EmployeeManagement.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/EmployeeManagement.Configuration.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/EmployeeManagement.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/EmployeeManagement.Domain.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/EmployeeManagement.Infrastructure.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/EmployeeManagement.Persistence.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/EmployeeManagement.Shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/EmployeeManagement.Shared.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Configuration/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Persistence/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.Shared/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/bin/Debug/net9.0/EmployeeManagement.WebAPI.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/EmployeeManagement.WebAPI.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.WebAPI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     </persistenceIdMap>
   </component>
   <component name="CopilotUserSelectedChatMode">
-    <option name="chatModeId" value="Ask" />
+    <option name="chatModeId" value="Agent" />
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
@@ -61,7 +61,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="68" />
+    <option name="cachedIndexableFilesCount" value="104" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -425,7 +425,8 @@
       <workItem from="1773497945881" duration="18517000" />
       <workItem from="1773517252468" duration="10808000" />
       <workItem from="1773547732161" duration="1426000" />
-      <workItem from="1773549865495" duration="8231000" />
+      <workItem from="1773549865495" duration="10079000" />
+      <workItem from="1773560247997" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="feat: implement JWT authentication and add BCrypt for password hashing">
       <option name="closed" value="true" />
@@ -443,7 +444,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773529026655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor: migrate Swagger to Microsoft.OpenApi with Scalar integration&#10;&#10;- Replaced Swashbuckle with Microsoft.AspNetCore.OpenApi and Scalar.AspNetCore&#10;- Configured JWT Bearer authentication in OpenAPI documentation&#10;- Updated middleware for OpenAPI/Scalar endpoints in development&#10;- Verified API documentation endpoints and build">
+      <option name="closed" value="true" />
+      <created>1773558414562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773558414562</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: add README for Employee Management System with setup instructions and API details">
+      <option name="closed" value="true" />
+      <created>1773559898676</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773559898676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +472,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: implement JWT authentication and add BCrypt for password hashing" />
     <MESSAGE value="refactor: optimize configuration and domain layers, streamline middleware and initialization&#10;&#10;- Simplified configuration setup and environment initialization&#10;- Refined middleware pipeline and error handling&#10;- Cleaned domain entities for clarity and maintainability&#10;- Verified build and ensured full functionality across all layers" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: optimize configuration and domain layers, streamline middleware and initialization&#10;&#10;- Simplified configuration setup and environment initialization&#10;- Refined middleware pipeline and error handling&#10;- Cleaned domain entities for clarity and maintainability&#10;- Verified build and ensured full functionality across all layers" />
+    <MESSAGE value="refactor: migrate Swagger to Microsoft.OpenApi with Scalar integration&#10;&#10;- Replaced Swashbuckle with Microsoft.AspNetCore.OpenApi and Scalar.AspNetCore&#10;- Configured JWT Bearer authentication in OpenAPI documentation&#10;- Updated middleware for OpenAPI/Scalar endpoints in development&#10;- Verified API documentation endpoints and build" />
+    <MESSAGE value="docs: add README for Employee Management System with setup instructions and API details" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: add README for Employee Management System with setup instructions and API details" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
