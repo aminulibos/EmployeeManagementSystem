@@ -1,0 +1,47 @@
+﻿# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio Cache/options
+.vs/
+
+# Rider/IntelliJ
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Node modules (if using npm)
+node_modules/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# Build artifacts
+artifacts/
+publish/
+
+# Environment variables
+.env
+.env.local
+
